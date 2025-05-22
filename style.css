@@ -141,6 +141,12 @@ footer {
 .delay-4 {
   animation-delay: 1.2s;
 }
+.delay-5 {
+  animation-delay: 1.5s;
+}
+.delay-6 {
+  animation-delay: 1.8s;
+}
 .header-bar {
   display: flex;
   justify-content: space-between;
